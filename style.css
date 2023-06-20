@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(15, 241, 71);
+}
+ 
+h1{
+    text-decoration:underline;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+th{
+    color: deeppink;
+    background-color:azure;
+    font-style: italic;
+    font-weight: bold;
+    border-color:brown;
+}
+
+td{
+    background-color: azure;
+    color:rgb(0, 8, 255);
+    font-style: italic;
+    font-weight: bold;
+    border-color: brown;
+}
